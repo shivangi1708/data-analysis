@@ -33,10 +33,3 @@ This analysis surfaces key business insights including:
 - Strategic observations based on key retail KPIs
 - Recommendations for retail decision-making models
 
-## ⚙️ How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/jcpenney-analysis.git
-   cd jcpenney-analysis
