@@ -8,7 +8,7 @@ This notebook explores historical trends, customer feedback, and business strate
 
 ## 📁 Contents
 
-- `JCPenney_Analysis_Final.ipynb`: Jupyter Notebook with complete code, charts, and insights.
+- `Analysis.ipynb`: Jupyter Notebook with complete code, charts, and insights.
 - Data preprocessing, sentiment analysis, and exploratory visualizations.
 - Word cloud representations of review text.
 
