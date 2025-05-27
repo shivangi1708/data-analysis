@@ -12,7 +12,7 @@ This notebook explores historical trends, customer feedback, and business strate
 - Data preprocessing, sentiment analysis, and exploratory visualizations.
 - Word cloud representations of review text.
 
-## 🔍 Key Analyses
+## 🔍 Key Analysis
 
 - Data cleaning and validation across multiple datasets (`products.csv`, `reviews.csv`, etc.)
 - Exploratory Data Analysis (EDA) on product categories, prices, and customer review patterns.
